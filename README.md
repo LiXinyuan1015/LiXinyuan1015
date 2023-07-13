@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2> Hey there! I'm Xylios.</h2>
+### Hey there!👋 I'm Xylios.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
