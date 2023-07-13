@@ -43,6 +43,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.LiXinyuan1015.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.LiXinyuan1015.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://LiXinyuan1015.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-LiXinyuan1015.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="lixinyuan1015@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lixinyuan1015@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
