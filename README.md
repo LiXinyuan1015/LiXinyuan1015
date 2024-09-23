@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Data Science and Engineering at East China Normal University.
-- 💼 &nbsp; Preparing for a graduate degree.
-- 🌱 &nbsp; Learning about Deep Learning, Reinforcement Learning and Statistics.
+- 💼 &nbsp; Preparing for a postgraduate degree.
+- 🌱 &nbsp; Learning about Natural Language Processing.
 - ✍️ &nbsp; Pursuing History and Philosophy as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
