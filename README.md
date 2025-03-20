@@ -22,7 +22,7 @@
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🤖 &nbsp;
-  ![CNN](https://img.shields.io/badge/-CNN-333333?style=flat&logo=deep-learning)
+  ![CNN](https://img.shields.io/badge/-CNN-333333?style=flat&logo=CNN)
   ![RNN](https://img.shields.io/badge/-RNN-333333?style=flat&logo=deep-learning)
   ![GRU](https://img.shields.io/badge/-GRU-333333?style=flat&logo=deep-learning)
   ![LSTM](https://img.shields.io/badge/-LSTM-333333?style=flat&logo=deep-learning)
