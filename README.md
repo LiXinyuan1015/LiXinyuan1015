@@ -22,7 +22,14 @@
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=latex)
 
 
+<br/>
 
+<a href="https://github.com/LiXinyuan1015">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiXinyuan1015&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiXinyuan1015&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
