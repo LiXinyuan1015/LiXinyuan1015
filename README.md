@@ -5,6 +5,7 @@
 - 🎓 &nbsp; Studying Data Science and Engineering at East China Normal University.
 - 💼 &nbsp; Preparing for a postgraduate degree.
 - 🌱 &nbsp; Learning about Natural Language Processing.
+- 📖 &nbsp; Researching Grammatical Error Correction, Question Generation, and Text2SQL.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
