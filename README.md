@@ -5,7 +5,6 @@
 - 🎓 &nbsp; Studying Data Science and Engineering at East China Normal University.
 - 💼 &nbsp; Preparing for a postgraduate degree.
 - 🌱 &nbsp; Learning about Natural Language Processing.
-- ✍️ &nbsp; Pursuing History and Philosophy as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -14,6 +13,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
