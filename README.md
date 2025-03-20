@@ -25,7 +25,7 @@
   ![CNN](https://img.shields.io/badge/-CNN-333333?style=flat&logo=CNN)
   ![RNN](https://img.shields.io/badge/-RNN-333333?style=flat&logo=deep-learning)
   ![GRU](https://img.shields.io/badge/-GRU-333333?style=flat&logo=deep-learning)
-  ![LSTM](https://img.shields.io/badge/-LSTM-333333?style=flat&logo=deep-learning)
+  ![LSTM](https://img.shields.io/badge/-LSTM-333333?style=flat&logo=LSTM)
   ![Transformer](https://img.shields.io/badge/-Transformer-333333?style=flat&logo=deep-learning)
   ![BERT](https://img.shields.io/badge/-BERT-333333?style=flat&logo=deep-learning)
   ![T5](https://img.shields.io/badge/-T5-333333?style=flat&logo=deep-learning)
